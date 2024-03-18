@@ -32,9 +32,9 @@
 >- Release all your air with a full "**lungs-to-empty**” **exhale** 
 >- **Repeat 2–3 x**.
 
-
-
-[[]]
+[[Phase 1 Waking and Early Morning(Hours 1-4)]]
+[[Phase 2  Midday Through Evening (Hours 5-13)]]
+[[Phase 3 Bedtime and Sleeping (Hours 14-24)]]
 
 
 
