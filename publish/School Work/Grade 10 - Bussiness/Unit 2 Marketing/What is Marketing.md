@@ -23,5 +23,5 @@ All the features that make up the products <mark style="background: #FF5582A6;">
 - Slogan
 - Logo
 - Packaging
-- Brand Name
+- [[Brand Name]]
 
