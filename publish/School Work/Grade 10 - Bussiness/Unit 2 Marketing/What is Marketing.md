@@ -18,6 +18,10 @@ Marketing is <mark style="background: #FF5582A6;">critical</mark> for sales
 - Advertising
 - Promotion
 - Sales
+## Branding
+All the features that make up the products <mark style="background: #FF5582A6;">image</mark> and <mark style="background: #FFB86CA6;">personality</mark>
+- Slogan
+- Logo
+- Packaging
+- Brand Name
 
-
-## 
