@@ -1,11 +1,11 @@
 {
 	"nodes":[
-		{"id":"a78c7b99bd2ec9b4","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.3 Translations of Quadratic Formulas.md","x":-840,"y":-1360,"width":680,"height":2800,"color":"1"},
-		{"id":"51aa680b058e023d","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.2 Introduction to Quadratic Relations.md","x":-1960,"y":-1040,"width":920,"height":2040,"color":"5"},
+		{"id":"a78c7b99bd2ec9b4","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/Cycle One/1.3 Translations of Quadratic Formulas.md","x":-840,"y":-1360,"width":680,"height":2800,"color":"1"},
+		{"id":"51aa680b058e023d","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/Cycle One/1.2 Introduction to Quadratic Relations.md","x":-1960,"y":-1040,"width":920,"height":2040,"color":"5"},
 		{"id":"18da01ea58c5ec4e","type":"text","text":"# Formulas\n![[Volume formula.png]]\n\n\n![[Formula of basic shapes.png]]\n![[Surface  area.jpg]]","x":960,"y":-642,"width":520,"height":1680},
-		{"id":"e01a094c52d9932f","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.7 Standard form of a Quadratic.md","x":880,"y":-1080,"width":680,"height":380,"color":"6"},
+		{"id":"e01a094c52d9932f","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/Cycle One/1.7 Standard form of a Quadratic.md","x":880,"y":-1080,"width":680,"height":380,"color":"6"},
 		{"id":"5ccbda7fe56fa7df","x":-108,"y":-469,"width":250,"height":60,"type":"text","text":""},
-		{"id":"d9e9a8a6e03dc40a","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.5 Transformations In the Form of = ax Squared.md","x":17,"y":-980,"width":680,"height":2040,"color":"4"}
+		{"id":"d9e9a8a6e03dc40a","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/Cycle One/1.5 Transformations In the Form of = ax Squared.md","x":17,"y":-980,"width":680,"height":2040,"color":"4"}
 	],
 	"edges":[
 		{"id":"df214e1f3363166e","fromNode":"51aa680b058e023d","fromSide":"right","toNode":"a78c7b99bd2ec9b4","toSide":"left"},
