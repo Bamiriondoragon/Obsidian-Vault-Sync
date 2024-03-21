@@ -3,10 +3,10 @@
 ## The Four P's
 An effective marketing strategy must consider all four elements of the marketing mix.
 
-1. Pricing
-2. Product
-3. Promotion
-4. Place
+1. Product
+2. Pricing
+3. Place
+4. Promotion
 
 
 # Product
@@ -26,3 +26,14 @@ What [[Goods and Services]] we sell and **how**?
 
 # Place
 Where will we sell our [[Goods and Services]]
+How will we actually get our [[Goods and Services]] to our customers.
+Channels of distribution
+
+#### Direct
+ Producer > Consumers (farm markets)
+#### Indirect
+Producer > Importer/Wholesaler > Retailer > Consumer
+#### Speciality
+Selling's G&S without a retailer.
+# Promotion
+How do we create awareness of our G&S
