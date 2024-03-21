@@ -7,8 +7,6 @@ An effective marketing strategy must consider all four elements of the marketing
 2. Pricing
 3. Place
 4. Promotion
-
-
 # Product
 What [[Goods and Services]] we sell and **how**?
 - Marketing research
@@ -48,8 +46,8 @@ Every marketing decision must consider the 2 C's
 1. **Consumers**
 Market your product to the people who are most likely to purchase your [[Goods and Services]] based on their **characteristics**, **wants**, **needs**. 
 - Determine through market research.
-- 
-1. **Competitors**
+
+2. **Competitors**
 - This is all companies that offer similar **G&S**.
 - Always trying to **take** **customers** from you.
 - Must find a way to **differentiate** your G&S from theirs.
