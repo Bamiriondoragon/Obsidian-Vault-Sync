@@ -14,3 +14,15 @@ What [[Goods and Services]] we sell and **how**?
 - Marketing research
 - Product development (quality, design, features, benefits)
 - Packaging
+- Branding
+
+# Price
+**How much** should we <mark style="background: #BBFABBA6;">charge</mark>?
+- Compared to its potential customers income
+- In terms of probability (must cover cost)
+- To determine customers perception of brand
+	- <mark style="background: #FFF3A3A6;">Low prices</mark>, Poor quality or great value
+	- <mark style="background: #D2B3FFA6;">High price</mark>, Luxury item or unaffordable
+
+# Place
+Where will we sell our [[Goods and Services]]
