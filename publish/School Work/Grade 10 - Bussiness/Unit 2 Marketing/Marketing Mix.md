@@ -43,7 +43,14 @@ How do we create **awareness** of our G&S
 
 
 ## Two C's Of Business
-Every marketing decision must consider the 2 Cs
+Every marketing decision must consider the 2 C's
 
-1. Consumers
+1. **Consumers**
+Market your product to the people who are most likely to purchase your [[Goods and Services]] based on their **characteristics**, **wants**, **needs**. 
+- Determine through market research.
+- 
+1. **Competitors**
+- This is all companies that offer similar **G&S**.
+- Always trying to **take** **customers** from you.
+- Must find a way to **differentiate** your G&S from theirs.
 
