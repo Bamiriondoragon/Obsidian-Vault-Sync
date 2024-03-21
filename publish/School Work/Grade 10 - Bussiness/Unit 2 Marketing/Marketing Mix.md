@@ -28,7 +28,6 @@ What [[Goods and Services]] we sell and **how**?
 Where will we sell our [[Goods and Services]]
 How will we actually get our [[Goods and Services]] to our customers.
 Channels of distribution
-
 #### Direct
  Producer > Consumers (farm markets)
 #### Indirect
@@ -36,4 +35,15 @@ Producer > Importer/Wholesaler > Retailer > Consumer
 #### Speciality
 Selling's G&S without a retailer.
 # Promotion
-How do we create awareness of our G&S
+How do we create **awareness** of our G&S
+- Advertisements
+- Publicity (Free promotion, ex, talking about product in news)
+- Personal Selling (door to door)
+- Sales Promotion (Contest, Special events, Samples, celebrity, endorsements)
+
+
+## Two C's Of Business
+Every marketing decision must consider the 2 Cs
+
+1. Consumers
+
