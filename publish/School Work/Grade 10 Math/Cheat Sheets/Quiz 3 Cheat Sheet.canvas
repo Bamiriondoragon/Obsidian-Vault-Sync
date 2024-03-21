@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"716ef8fb008e7d58","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.10 Group Factoring.md","x":680,"y":-760,"width":860,"height":640},
 		{"id":"18da01ea58c5ec4e","type":"text","text":"# Formulas\n![[Volume formula.png]]\n\n\n![[Formula of basic shapes.png]]\n![[Surface  area.jpg]]","x":1540,"y":-760,"width":520,"height":1680},
-		{"id":"57f47635b0e950e9","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.9 Common Factoring.md","x":100,"y":-620,"width":1320,"height":2080},
-		{"id":"175112a591c8995b","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.8 Exponent Laws.md","x":-580,"y":-500,"width":621,"height":1000}
+		{"id":"57f47635b0e950e9","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.9 Common Factoring.md","x":-2040,"y":-240,"width":1320,"height":2080},
+		{"id":"175112a591c8995b","type":"file","file":"remote-blog/publish/School Work/Grade 10 Math/1.8 Exponent Laws.md","x":-320,"y":-60,"width":621,"height":1000}
 	],
 	"edges":[]
 }
