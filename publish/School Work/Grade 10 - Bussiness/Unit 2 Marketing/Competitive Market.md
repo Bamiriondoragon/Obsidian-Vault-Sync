@@ -28,5 +28,13 @@ G&S not directly related but in the same overall industry.
 They group of people who are most likely to purchase your G&S
 
 - Marketing efforts are focused on the target market to maximize marking dollars
-- Use Demographics and cyphographics
-#### 
+- Use Demographics and cryptographic
+#### Demographics
+Study of **obvious** **characteristics** that categorize people
+- Gender
+- Age
+- Ethnic Background
+- Income Level
+- Education
+- Family life cycle (Single, Family, {DINK} Double Income No Kids)
+#### Cryptographic
