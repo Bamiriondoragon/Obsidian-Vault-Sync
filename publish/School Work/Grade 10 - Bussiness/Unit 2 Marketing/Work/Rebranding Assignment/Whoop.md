@@ -34,4 +34,4 @@ Everybody could gain something valuable from Whoop.
 7. **Have you ever heard of the company Whoop, and have you used  any of their products.**
 8. **What do you dislike about this Logo?
 9. **What do you Like about this Logo?**
-10. Do you associate this product wti
+10. **Do you associate this logo with Health and Wellness?**
