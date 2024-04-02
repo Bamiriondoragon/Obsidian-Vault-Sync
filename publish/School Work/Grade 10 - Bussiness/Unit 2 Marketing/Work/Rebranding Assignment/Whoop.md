@@ -10,8 +10,8 @@ Everybody could gain something valuable from Whoop.
 2. Current Age
 3. Current Occupation/Position
    
-1.   Favourite colours (select all that apply)
-2. **How much do you prioritize your Health and Wellness?**
+1. **Favourite colours that you would be willing to wear (select all that apply)**
+2. **Do you prioritize your Health and Wellness?**
 3.  **If yes to the previous question what aspect do you prioritize the most?**
 	1. Fitness
 	2.  Sleep
@@ -23,12 +23,15 @@ Everybody could gain something valuable from Whoop.
 	2. Tv
 	3. Sponsorships on YouTube
 	4. Social Media
-6. What Colour do you think Health and Wellness is?
+6. **What Colour do you associate Health and Wellness is?**
 	1. Dark Green
 	2. Light Green
 	3. Pink
 	4. Light Blue
 	5. Dark Blue
 	6. Other (Please specify)
-7. Have you ever heard of the brand Whoop, and have you used their product.
-8. What do you dislike about this Logo?
+8. **Do you need or want high insight into your physiological activity?**
+7. **Have you ever heard of the company Whoop, and have you used  any of their products.**
+8. **What do you dislike about this Logo?
+9. **What do you Like about this Logo?**
+10. Do you associate this product wti
