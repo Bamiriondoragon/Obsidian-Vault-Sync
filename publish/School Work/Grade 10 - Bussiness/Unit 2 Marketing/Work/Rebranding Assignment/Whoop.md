@@ -10,24 +10,25 @@ Everybody could gain something valuable from Whoop.
 2. Current Age
 3. Current Occupation/Position
    
-1.   **How much do you prioritize your Health and Wellness?**
-2. **If yes to the previous question what aspect do you prioritize the most?**
+1.   Favourite colours (select all that apply)
+2. **How much do you prioritize your Health and Wellness?**
+3.  **If yes to the previous question what aspect do you prioritize the most?**
 	1. Fitness
 	2.  Sleep
-3. **Are you a user of the product "Oura Ring"**
+4. **Are you a user of the product "Oura Ring"**
 	1. Yes
 	2. No
-4. **Where do you see ads the most?**
+5. **Where do you see ads the most?**
 	1. Podcast
 	2. Tv
 	3. Sponsorships on YouTube
 	4. Social Media
-5. What Colour do you think Health and Wellness is?
+6. What Colour do you think Health and Wellness is?
 	1. Dark Green
 	2. Light Green
 	3. Pink
 	4. Light Blue
 	5. Dark Blue
 	6. Other (Please specify)
-6. What do you dislike about our current Logo.
-7. Would you accept 
+7. Have you ever heard of the brand Whoop, and have you used their product.
+8. What do you dislike about this Logo?
