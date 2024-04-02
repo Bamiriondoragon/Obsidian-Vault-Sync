@@ -6,11 +6,19 @@ Individuals who want or need a high level of insight into their physiological ac
 Everybody could gain something valuable from Whoop.
 ## Potential Form Questions
 
-1. Do You Prioritize your Health and Wellness? 
-2. 
-3. If yes to the previous question what aspect do you prioritize the most?
+1. Last Name, First Name
+2. Current Age
+3. Current Ocupation/ P
+4.  **How much do you prioritize your Health and Wellness?**
+5. **If yes to the previous question what aspect do you prioritize the most?**
 	1. Fitness
 	2.  Sleep
-4. Are you a user  of the pr "Oura Ring"
-5.  If yes to the previous question, Select what you like about this product.
-	1. Battery
+6. **Are you a user of the product "Oura Ring"**
+	1. Yes
+	2. No
+7. **Where do you see ads the most?**
+	1. Podcast
+	2. Tv
+	3. Sponsorships on YouTube
+	4. Social Media
+8. What 
