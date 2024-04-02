@@ -23,7 +23,7 @@ Everybody could gain something valuable from Whoop.
 	2. Tv
 	3. Sponsorships on YouTube
 	4. Social Media
-6. **What Colour do you associate Health and Wellness is?**
+6. **What Colour do you associate Health and Wellness with?**
 	1. Dark Green
 	2. Light Green
 	3. Pink
