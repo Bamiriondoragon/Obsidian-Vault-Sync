@@ -7,4 +7,10 @@ Everybody could gain something valuable from Whoop.
 ## Potential Form Questions
 
 1. Do You Prioritize your Health and Wellness? 
-2. If yes to the previous question what aspect do you prioritize the most?
+2. 
+3. If yes to the previous question what aspect do you prioritize the most?
+	1. Fitness
+	2.  Sleep
+4. Are you a user  of the pr "Oura Ring"
+5.  If yes to the previous question, Select what you like about this product.
+	1. Battery
