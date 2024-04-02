@@ -4,4 +4,7 @@ We’re revolutionizing the way that people understand their bodies. WHOOP provi
 # Who Whoop is For
 Individuals who want or need a high level of insight into their physiological activity.
 Everybody could gain something valuable from Whoop.
-## F
+## Potential Form Questions
+
+1. Do You Prioritize your Health and Wellness? 
+2. If yes to the previous question what aspect do you prioritize the most?
