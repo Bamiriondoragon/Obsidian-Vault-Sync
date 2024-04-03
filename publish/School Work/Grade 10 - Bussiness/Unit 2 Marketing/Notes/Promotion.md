@@ -20,17 +20,6 @@ Paid, non personal sales communication
 6. **Mechanical Requirements** - Complexity and difficulty of preparing ad
 7. **Clutter** - Competition for audiences attention (number of other ads around)
 8. **Cost** - Total cost to create and run the ad
-
-#### Viral Marketing
-- Using word of mouth using tech ( spreads like a virus)
-- Create online buzz (huge audience and low cost)
-- Unaware spreading the ad (Just being social)
-
-##### Viral Marketing Tools:
-- TikTok
-- YouTube
-- 
-
 ##### Example's
 - Radio
 - Magazines
@@ -40,6 +29,21 @@ Paid, non personal sales communication
 - Direct Mail (Mail Boxes)
 - News Paper
 - Podcasts
+#### Viral Marketing
+- Using word of mouth using tech ( spreads like a virus)
+- Create online buzz (huge audience and low cost)
+- Unaware spreading the ad (Just being social)
+### Four Reason Things Go Viral
+- Funny
+- Very helpful
+- Controversial
+- Something Spectacular
+##### Viral Marketing Tools:
+- TikTok
+- YouTube
+- Twitter
+- Snapchat
+- Facebook
 
 # Personal Selling
 - Direct communication with sellers and target market
