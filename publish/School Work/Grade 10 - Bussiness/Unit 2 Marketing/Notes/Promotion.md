@@ -46,7 +46,7 @@ Paid, non personal sales communication
 - Something Spectacular
 ##### Viral Videos
 - Nike Ad
-- Dove
+- Dove Ad
 - 
 # Personal Selling
 - Direct communication with sellers and target market
