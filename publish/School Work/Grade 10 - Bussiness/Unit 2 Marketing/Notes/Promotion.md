@@ -65,6 +65,14 @@ Any form of unpaid promotion
 - Lady Gaga Meat Dress
 
 # Sales Promotion
+All other promotional activates excluding personal selling, publicity, and advertising
 - Buy One Get One Free
-- Coupouns 
+- Coupon's
+- Rebates
+- Discounts
+- Samples
+- In Store Displays
+- Premiums (Toys in cereal)'
+- Speciality items (hats/ Calendar's)
+- Contest (roll up the rim to win)
 
