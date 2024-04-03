@@ -29,22 +29,25 @@ Paid, non personal sales communication
 - Direct Mail (Mail Boxes)
 - News Paper
 - Podcasts
-#### Viral Marketing
+## Viral Marketing
 - Using word of mouth using tech ( spreads like a virus)
 - Create online buzz (huge audience and low cost)
 - Unaware spreading the ad (Just being social)
-### Four Reason Things Go Viral
-- Funny
-- Very helpful
-- Controversial
-- Something Spectacular
 ##### Viral Marketing Tools:
 - TikTok
 - YouTube
 - Twitter
 - Snapchat
 - Facebook
-
+### Four Reason Things Go Viral
+- Funny
+- Very helpful
+- Controversial
+- Something Spectacular
+##### Viral Videos
+- Nike Ad
+- Dove
+- 
 # Personal Selling
 - Direct communication with sellers and target market
 - Used to build relationships and loyalty.
