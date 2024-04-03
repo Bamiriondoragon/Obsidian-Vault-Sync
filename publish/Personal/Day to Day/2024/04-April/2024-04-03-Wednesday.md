@@ -1,8 +1,8 @@
 #Sleep/Protocol/Use 
 # Phase 1 Waking and Early Morning(Hours 1-4)             6:30 AM - 10:30 AM
 - [ ] Get Light exposure in the morning by going outside
-- [ ] Delay caffeine by **90-120 minutes after waking**
-- [ ] Drink 32 Ounces of **Water with a pinch of Sea salt**
+- [x] Delay caffeine by **90-120 minutes after waking** ✅ 2024-04-03
+- [x] Drink 32 Ounces of **Water with a pinch of Sea salt** ✅ 2024-04-03
 - [ ] **Cyclic hyperventilation** for increased energy
 
 > [!info] Cyclic Hyperventilation
@@ -20,10 +20,10 @@
 - [ ] Eat dinner with **higher carbohydrates and protein**
 - [ ] Get **Light Exposure around Sunset**
 # Phase 3 Bedtime and Sleeping (Hours 14-24)         7:00 PM - 12:00 AM
-- [ ] Wake up within (**+/- 1 hour**) each morning, days off included.
+- [x] Wake up within (**+/- 1 hour**) each morning, days off included. ✅ 2024-04-03
 - [ ] Physiological sighing for **5 minutes**.
-- [ ] Cool bedroom to **1-3 degrees** lower than usual.
-- [ ] Make **room as dark*** as possible.
+- [x] Cool bedroom to **1-3 degrees** lower than usual. ✅ 2024-04-03
+- [x] Make **room as dark*** as possible. ✅ 2024-04-03
 - [ ] **If woken up** in middle of the night, use NSDR to fall back asleep
       
 > [!NOTE] Physiological Sighing
