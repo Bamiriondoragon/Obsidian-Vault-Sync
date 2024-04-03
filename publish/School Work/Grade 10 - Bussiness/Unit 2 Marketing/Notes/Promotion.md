@@ -19,7 +19,18 @@ Paid, non personal sales communication
 5.  **Lead Time** - how quickly ad can be ready to run
 6. **Mechanical Requirements** - Complexity and difficulty of preparing ad
 7. **Clutter** - Competition for audiences attention (number of other ads around)
-8. **Cost**
+8. **Cost** - Total cost to create and run the ad
+
+#### Viral Marketing
+- Using word of mouth using tech ( spreads like a virus)
+- Create online buzz (huge audience and low cost)
+- Unaware spreading the ad (Just being social)
+
+##### Viral Marketing Tools:
+- TikTok
+- YouTube
+- 
+
 ##### Example's
 - Radio
 - Magazines
