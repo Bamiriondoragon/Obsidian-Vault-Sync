@@ -7,8 +7,6 @@ The point of promotion's is to inform. Remind and persuade target market to purc
 2. Publicity
 3. Personal Selling
 4. Sales Promotion
-
-
 # Advertising
 Paid, non personal sales communication
 #### Comparing Various Advertisement's
@@ -47,7 +45,8 @@ Paid, non personal sales communication
 ##### Viral Videos
 - Nike Ad
 - Dove Ad
-- 
+- Ice Bucket Challenge
+- Fun Theory
 # Personal Selling
 - Direct communication with sellers and target market
 - Used to build relationships and loyalty.
@@ -58,4 +57,14 @@ Paid, non personal sales communication
 Very effective when business sell [[Goods and Services]] to other business.
 
 
+# Publicity
+Any form of unpaid promotion
+- Articles
+- News coverage
+- Public Relations
+- Lady Gaga Meat Dress
+
+# Sales Promotion
+- Buy One Get One Free
+- Coupouns 
 
