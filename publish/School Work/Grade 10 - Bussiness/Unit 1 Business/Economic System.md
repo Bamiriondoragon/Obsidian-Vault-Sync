@@ -1,12 +1,12 @@
 #Business
 > [!What are Economic Systems]
-> Because of countries having limited [[Economic Resources]], economic systems  is how these countries manage their resources, in how they use them and control them, it is also how a nation organizes, produces, distributes and consumer goods and services to people.
+> Because of countries having limited [[Economic Resources]], economic systems  is how these countries manage their resources, in how they use them and control them, it is also how a nation organizes, produces, distributes and consumer [[Goods and Services]] to people.
 > 
 
 # Command Market
 - Government controls **all** **Natural** and **Capital** resources
 - Government **controls** how much  each person gets **<mark style="background: #FFF3A3A6;">paid</mark>** and what price the items are sold at.
-- **Zero** **competition**
+- **Zero** **[[Competition]]**
 - All **property** belongs to the country
 - No incentive to maximize **<mark style="background: #BBFABBA6;">profit</mark>**
 - Cuba, North Korea

@@ -3,7 +3,7 @@
 - The behaviour that guides people to do the right thing your code on conduct
 - Our morality
 
-Corporations
+[[Corporations]]
 
 Tend to only focus on making money
 They don't care about how it effects the environment

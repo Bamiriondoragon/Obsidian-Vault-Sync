@@ -16,7 +16,7 @@ Paid, non personal sales communication
 4. **Durability** - how long the ad exposures last
 5.  **Lead Time** - how quickly ad can be ready to run
 6. **Mechanical Requirements** - Complexity and difficulty of preparing ad
-7. **Clutter** - Competition for audiences attention (number of other ads around)
+7. **Clutter** - [[Competition]] for audiences attention (number of other ads around)
 8. **Cost** - Total cost to create and run the ad
 ##### Example's
 - Radio

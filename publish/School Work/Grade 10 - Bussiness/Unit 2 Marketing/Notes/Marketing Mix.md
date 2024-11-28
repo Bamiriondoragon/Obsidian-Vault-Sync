@@ -6,7 +6,7 @@ An effective marketing strategy must consider all four elements of the marketing
 1. Product
 2. Pricing
 3. Place
-4. Promotion
+4. [[Promotion]]
 # Product
 What [[Goods and Services]] we sell and **how**?
 - Marketing research
@@ -35,9 +35,9 @@ Selling's G&S without a retailer.
 # Promotion
 How do we create **awareness** of our G&S
 - Advertisements
-- Publicity (Free promotion, ex, talking about product in news)
+- Publicity (Free [[Promotion]], ex, talking about product in news)
 - Personal Selling (door to door)
-- Sales Promotion (Contest, Special events, Samples, celebrity, endorsements)
+- Sales [[Promotion]] (Contest, Special events, Samples, celebrity, endorsements)
 
 
 ## Two C's Of Business

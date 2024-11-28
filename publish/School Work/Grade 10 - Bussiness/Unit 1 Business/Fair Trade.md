@@ -19,4 +19,4 @@ People in their younger ages who don't want to support bad working conditions an
 
 
 ## Backlinks
-[[Ethics]] - directly related to business ethics.
+[[Ethics]] - directly related to business [[Ethics]].

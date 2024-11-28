@@ -2,7 +2,7 @@
 
 # Public Corporations
 Similar goals to [[What Are Business|Business]] 
-**Ownership** is **divided** into many tiny pieces called shares/stocks
+**[[Ownership]]** is **divided** into many tiny pieces called shares/stocks
 Buyers of shares are called <mark style="background: #BBFABBA6;">shareholders</mark>
 Shares are **bought** and **sold** on the [[Stock Market]]
 ## Board of Directors

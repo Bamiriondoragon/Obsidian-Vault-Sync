@@ -1,5 +1,5 @@
 #Business 
-A short catch phrase that is attached to a company name & logo
+A short catch phrase that is attached to a company name & [[Logo]]
 
 - "Just do it" (Nike)
 - "I'm loving it" (McDonalds)

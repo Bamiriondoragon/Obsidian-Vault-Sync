@@ -16,11 +16,11 @@ Law of Supply as **prices** go **up** supply **increases**.
 ## Factors affecting supply
 
 ### Number of producers
-More popular a product is > more competition enter market meaning more 
+More popular a product is > more [[Competition]] enter market meaning more 
 ### Substitutes 
 What prices fall so farmers switch to selling soy.
 ### Change In Technology
-Technology reduces the cost and allows for more competition in the market
+Technology reduces the cost and allows for more [[Competition]] in the market
 ### Change in Production cost
 higher cost on resources > Decreases supply
 

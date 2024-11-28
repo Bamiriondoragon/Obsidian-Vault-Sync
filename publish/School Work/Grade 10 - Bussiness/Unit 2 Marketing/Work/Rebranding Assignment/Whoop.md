@@ -32,6 +32,6 @@ Everybody could gain something valuable from Whoop.
 	6. Other (Please specify)
 8. **Do you need or want high insight into your physiological activity?**
 7. **Have you ever heard of the company Whoop, and have you used  any of their products.**
-8. **What do you dislike about this Logo?
-9. **What do you Like about this Logo?**
-10. **Do you associate this logo with Health and Wellness?**
+8. **What do you dislike about this [[Logo]]?
+9. **What do you Like about this [[Logo]]?**
+10. **Do you associate this [[Logo]] with Health and Wellness?**
